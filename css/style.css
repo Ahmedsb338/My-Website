@@ -60,7 +60,7 @@ a {
     color: var(--mainColor);
 }
 .main-heading p {
-    margin-top: -20px;
+    margin-top: -10px;
     color: #423c3c;
     font-weight: 200;
     font-style: italic;
